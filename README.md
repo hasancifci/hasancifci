@@ -1,3 +1,4 @@
+![iconfinder_65687_html_logo_html5_5_five_icon_512px](https://user-images.githubusercontent.com/36739258/123176048-77c6ec00-d48b-11eb-91f5-d19ae4c65e4c.png)
 
 ### Hi there 👋
 
@@ -39,12 +40,17 @@ Here are some ideas to get you started:
  
 <img src="https://user-images.githubusercontent.com/36739258/123175910-42220300-d48b-11eb-98ea-f3c63a86d3c0.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> 
  
+<img src="https://user-images.githubusercontent.com/36739258/123176072-81505400-d48b-11eb-8306-9477169be481.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">  
+ 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancifci&theme=tokyonight)
 
 <img src="https://github-readme-stats.vercel.app/api?username=hasancifci&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+
 
 
 
