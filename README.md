@@ -1,4 +1,4 @@
-![iconfinder_65687_html_logo_html5_5_five_icon_512px](https://user-images.githubusercontent.com/36739258/123176048-77c6ec00-d48b-11eb-91f5-d19ae4c65e4c.png)
+
 
 ### Hi there 👋
 
