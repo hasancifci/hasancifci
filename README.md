@@ -36,9 +36,13 @@ Here are some ideas to get you started:
  
 <img src="https://user-images.githubusercontent.com/36739258/123175188-03d81400-d48a-11eb-804f-4b9ff839bd64.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 
-<img src="https://user-images.githubusercontent.com/36739258/123175367-5b767f80-d48a-11eb-9b77-6b8e3e481ca7.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://user-images.githubusercontent.com/36739258/123176423-12bfc600-d48c-11eb-9c96-8f18673511e4.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> 
  
- <img src="https://user-images.githubusercontent.com/36739258/123176423-12bfc600-d48c-11eb-9c96-8f18673511e4.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://user-images.githubusercontent.com/36739258/123176575-5c101580-d48c-11eb-9664-bfd20796ea3f.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> 
+ 
+<img src="https://user-images.githubusercontent.com/36739258/123175367-5b767f80-d48a-11eb-9b77-6b8e3e481ca7.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+
+
  
  
  
