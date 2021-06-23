@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="https://linkedin.com/in/hasanc" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/36739258/123174768-56fd9700-d489-11eb-902b-412bceff4a96.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:hhasancifci@gmail.com"> <img src="https://user-images.githubusercontent.com/36739258/123174528-eeaeb580-d488-11eb-9b2f-d24e19eade61.png![iconfinder_5296501_linkedin_network_linkedin logo_icon_512px]" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:hhasancifci@gmail.com"> <img src="https://user-images.githubusercontent.com/36739258/123174528-eeaeb580-d488-11eb-9b2f-d24e19eade61.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancifci&theme=tokyonight)
