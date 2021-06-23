@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/36739258/123175367-5b767f80-d48a-11eb-9b77-6b8e3e481ca7.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> 
  
+<img src="https://user-images.githubusercontent.com/36739258/123175559-aabcb000-d48a-11eb-9554-00e80d038778.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">  
+ 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </p>
 
