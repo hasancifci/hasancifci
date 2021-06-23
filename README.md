@@ -37,13 +37,14 @@ Here are some ideas to get you started:
  
 <img src="https://user-images.githubusercontent.com/36739258/123175764-fd966780-d48a-11eb-8b91-b7363f6ef2e0.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
  
+<img src="https://user-images.githubusercontent.com/36739258/123175910-42220300-d48b-11eb-98ea-f3c63a86d3c0.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> 
+ 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancifci&theme=tokyonight)
 
 <img src="https://github-readme-stats.vercel.app/api?username=hasancifci&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 
 
 
