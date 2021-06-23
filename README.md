@@ -26,34 +26,23 @@ Here are some ideas to get you started:
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://user-images.githubusercontent.com/36739258/123175266-2c600e00-d48a-11eb-8034-cea758e0dc97.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/74072821/123177644-5287ad00-d48e-11eb-87b1-b87d1687442b.png" alt="VS" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/74072821/123177546-28ce8600-d48e-11eb-8b1e-a1ec34a4037d.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/74072821/123179401-00488b00-d492-11eb-9c20-bf7b83bdb458.png" alt="C#" height="60" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/74072821/123176800-c9bc4180-d48c-11eb-968b-a9a23884f6dd.png" alt="Eclipse" height="90" style="vertical-align:top; margin:3px">
+ <img src="https://user-images.githubusercontent.com/74072821/123178134-405a3e80-d48f-11eb-89e2-9ade3c678443.png" alt="Java" height="80" style="vertical-align:top; margin:3px">
+<img src="https://user-images.githubusercontent.com/74072821/123176055-78f81900-d48b-11eb-86c3-71d2d17aeb55.png" alt="Android Studio" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/74072821/123177015-27508e00-d48d-11eb-9925-4b45e4b03df8.png" alt="Flutter" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/74072821/123176938-08ea9280-d48d-11eb-83ef-769e3d02ab06.png" alt="Dart" height="60" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/74072821/123177873-c45ff680-d48e-11eb-9f86-c61fe16b6687.png" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/74072821/123179222-99c36d00-d491-11eb-8662-50799caaae30.png" alt="TypeScript" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/74072821/123178268-857e7080-d48f-11eb-9aa5-1680886509b7.png" alt="HTML" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/74072821/123177467-fcb30500-d48d-11eb-8e71-7cfeb065788d.png" alt="Angular" height="70" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/74072821/123177322-b78ed300-d48d-11eb-9069-1db0f801328e.png" alt="React" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/74072821/123177096-50711e80-d48d-11eb-9a1e-e924a307cc1c.png" alt="Firebase" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/74072821/123178823-b01cf900-d490-11eb-9d8d-9e4ed40452f2.png" alt="Postgre" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/74072821/123178998-1a359e00-d491-11eb-841b-a6339b5ef33d.png" alt="mysql" height="80" style="vertical-align:top; margin:4px">
  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- 
-<img src="https://user-images.githubusercontent.com/36739258/123176198-b361b600-d48b-11eb-89c5-762fe5e51c37.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-
-<img src="https://user-images.githubusercontent.com/36739258/123176270-cc6a6700-d48b-11eb-8924-915c22a158a5.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> 
- 
-<img src="https://user-images.githubusercontent.com/36739258/123175188-03d81400-d48a-11eb-804f-4b9ff839bd64.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-
-<img src="https://user-images.githubusercontent.com/36739258/123176423-12bfc600-d48c-11eb-9c96-8f18673511e4.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> 
- 
-<img src="https://user-images.githubusercontent.com/36739258/123176575-5c101580-d48c-11eb-9664-bfd20796ea3f.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> 
- 
-<img src="https://user-images.githubusercontent.com/36739258/123175367-5b767f80-d48a-11eb-9b77-6b8e3e481ca7.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-
-<img src="https://user-images.githubusercontent.com/36739258/123178361-b78fd280-d48f-11eb-95ec-b3809e6fc5e9.jpeg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
- 
- 
-<img src="https://user-images.githubusercontent.com/36739258/123175559-aabcb000-d48a-11eb-9554-00e80d038778.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">  
- 
-<img src="https://user-images.githubusercontent.com/36739258/123175764-fd966780-d48a-11eb-8b91-b7363f6ef2e0.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
- 
-<img src="https://user-images.githubusercontent.com/36739258/123175910-42220300-d48b-11eb-98ea-f3c63a86d3c0.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> 
- 
-<img src="https://user-images.githubusercontent.com/36739258/123176072-81505400-d48b-11eb-8306-9477169be481.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">  
- 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasancifci&theme=tokyonight)
